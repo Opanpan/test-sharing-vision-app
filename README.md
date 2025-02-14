@@ -3,7 +3,7 @@
 1.  Masuk ke folder go-article
 2.  Buat databases article
 3.  Sesuaikan ENV
-4.  Jalankan query di file 0001_create_articles_table.up.sql
+4.  Jalankan query di folder go-article/db/migrations/0001_create_articles_table.up.sql
 5.  Jalankan perintah `go run cmd/main.go`
 
 # Cara menjalankan service FE
